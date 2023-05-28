@@ -1,5 +1,5 @@
 
-# TOR GUI
+# TOR GUI ( not for termux or android)
 
 This is a tool that uses Tor and runs it in GUI mode. This tool is created with the tkinter module in the Python language.
 
