@@ -65,4 +65,4 @@ To run this tool without any errors, please follow these instructions:
 
 💬 Asked me about any errors or any help
 
-📫 How to reach me [My facebook id](https://www.facebook.com/root.loovs)
+📫 How to reach me [My facebook id](https://www.facebook.com/root.lovs)
